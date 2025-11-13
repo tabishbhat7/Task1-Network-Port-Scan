@@ -1,0 +1,7 @@
+cd "%USERPROFILE%\Documents\Task1-Network-Port-Scan"
+git init
+git add .
+git commit -m "Add Nmap scan results and README for Task 1"
+git branch -M main
+git remote add origin https://github.com/<tabishbhat7>/Task1-Network-Port-Scan.git
+git push -u origin main
